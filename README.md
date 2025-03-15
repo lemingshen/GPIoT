@@ -29,6 +29,9 @@ pip install -r requirements.txt
 - Our fine-tuned model for task decomposition: [link](https://huggingface.co/lemingshen/GPIoT_Task_Decomposition).
 - Our fine-tuned model for code generation: [link](https://huggingface.co/lemingshen/GPIoT_Code_Generation).
 
+### 4. IoTBench
+- To evaluate LLM's capabilities in generating IoT-related programs, we develop an IoTBench
+- You can find download the benchmark here: [link](https://mypikpak.com/s/VOLPPwXhmHBnHMY7hW6oGHjMo1)
 
 ### 4. Download Foundation Model
 - Download the foundation model of `Llama2-13b-chat-hf` from this [link](https://huggingface.co/meta-llama/Llama-2-13b-chat-hf)
