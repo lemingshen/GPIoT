@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## Citation
 ```
-@inproceedings{shen2024fedconv,
+@inproceedings{shen2025gpiot,
   title={GPIoT: Tailoring Small Language Models for IoT Program Synthesis and Development},
   author={Shen, Leming and Yang, Qiang and Huang, Xinyu and Ma, Zijing and Zheng, Yuanqing},
   booktitle={Proceedings of the 22nd ACM Conference on Embedded Networked Sensor Systems},
